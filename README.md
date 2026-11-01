@@ -2,6 +2,7 @@
 
 > 이 레포는 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)의 Karpathy 코딩 가이드라인 스킬(`karpathy-guidelines`)을 한국어로 옮기고 일부 수정한 버전입니다.
 >
+> - 원작 스킬 바로가기: https://github.com/forrestchang/andrej-karpathy-skills
 > - 원작자: Jiayuan Zhang ([@forrestchang](https://github.com/forrestchang))
 > - 원작 라이선스: MIT
 > - 원작의 바탕: [Andrej Karpathy의 LLM 코딩 함정 관찰](https://x.com/karpathy/status/2015883857489522876)
