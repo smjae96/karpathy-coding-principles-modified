@@ -66,7 +66,7 @@ Claude 앱(claude.ai): 이 레포 폴더를 zip으로 묶어 설정 > 기능 > �
 
 - 원작: [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) by Jiayuan Zhang (@forrestchang), MIT License
 - 원작의 원칙은 [Andrej Karpathy의 글](https://x.com/karpathy/status/2015883857489522876)에서 출발했습니다. 인용문의 출처도 같습니다.
-- 수정: Jaeyun Shim (한국어 번역, 원칙 4-보강 추가, 표·적용 절차 보강, 이름 변경)
+- 수정: JaeYoon Sim (한국어 번역, 원칙 4-보강 추가, 표·적용 절차 보강, 이름 변경)
 - 자세한 내용은 [NOTICE](./NOTICE)를 참고하세요.
 
 ## License

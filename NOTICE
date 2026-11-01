@@ -15,7 +15,7 @@ About the LICENSE file:
   therefore reproduces the standard MIT License text, with the original
   author's name taken from the original repository's commit history.
 
-Modifications (c) 2026 Jaeyun Shim:
+Modifications (c) 2026 JaeYoon Sim:
   - Translated into Korean.
   - Added "원칙 4-보강" (static verification when build/test cannot run).
   - Added a row for 4-보강 to the principles table and a build-feasibility
